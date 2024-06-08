@@ -15,6 +15,7 @@ Abaixo deixo alguns curos gratuitos ❤️.
 ---
 #### Demais cursos
 - [Trilha de aprendizagem: Análise de Dados - Fundamentos](https://www.escolavirtual.gov.br/trilha/84)
+- [Certificado Profissional Análise de dados do Google](https://www.coursera.org/professional-certificates/google-data-analytics "Curso de análise de dados")
 ---
 
 # 🛤️ Trilha de Estudos  
@@ -25,7 +26,7 @@ Esta trilha foi retirada do site da [Roadmap](https://roadmap.sh/) e conteúdo d
 
   |Conteúdo|Aula|
   |:--------|:----:|
-  |**1. O que é análise de dados**|Link|
+  |**1. O que é análise de dados**|[Link](https://youtu.be/2KSalyW2_zE?si=OK_3I7qvLrgaKvu4 "Análise de dados: o que é, tipos e qual a sua importância? - Canal: Ploomes")|
   |**2. Tipos de análise de dados**|Link|
   |2.1 Análise descritiva|Link|
   |2.2 Análise de diagnóstico|Link|
