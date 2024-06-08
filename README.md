@@ -185,7 +185,65 @@ Esta trilha foi retirada do site da [Roadmap](https://roadmap.sh/) e conteúdo d
   
 </details>
 
+<details>
+  <summary>SQL</summary>
 
+  |Conteúdo|Aula|
+  |--------|----|
+  |**1. Introdução**|Link|
+  |1.1 O que são bancos de dados relacionais?|Link|
+  |1.2 Benefícios e limitações do RDBMS|Link|
+  |1.3 SQL vs NoSQL|Link|
+  |**2. Sintaxe SQL Básica**|Link|
+  |2.1 Palavras-chave SQL|Link|
+  |2.2 Tipos de dados|Link|
+  |2.3 Operadores|Link|
+  |2.4 Declarações|Link|
+  |2.4.1 SELECT|Link|
+  |2.4.2 INSERT|Link|
+  |2.4.3 UPDATE|Link|
+  |2.4.4 DELETE|Link|
+  |**3. Linguagem de definição de dados (DDL)**|Link|
+  |3.1 Drop table/Eliminar tabela|Link|
+  |3.2 Creat table/Criar tabela|Link|
+  |3.3 Alter table/Alterar a tabela|Link|
+  |3.4 Truncate table/Truncar tabela|Link|
+  |**4. Linguagem de manipulação de dados (DML)**|Link|
+  |4.1 From|Link|
+  |4.2 Where|Link|
+  |4.3 Order by|Link|
+  |4.4 group by|Link|
+  |4.5 Having|Link|
+  |4.6 Join's|Link|
+  |4.7 Insert|Link|
+  |4.8 Update|Link|
+  |4.9 Delete|Link|
+  |**5. Consultas agregadas**|Link|
+  |**6. Restrições de dados**|Link|
+  |**7. Consultas SQL JOIN**|Link|
+  |**8. Subconsultas**|Link|
+  |**9. Funções SQL Avançadas**|Link|
+  |**10. Vizualizações**|Link|
+  |**11. Índices**|Link|
+  |**12. Transações**|Link|
+  |**13. Integridade e segurança de dados**|Link|
+  |**14. Procedimentos e funções armazenados**|Link|
+  |**15. Otimização de performance**|Link|
+  |**16. Conceitos avançados de SQL**|Link|
+  |16.1 Consultas recursivas|Link|
+  |16.2 Operações dinâmicas e não dinâmicas|Link|
+  |16.3 Funções de janela|Link|
+  |16.3.1 dense_rank|Link|
+  |16.3.2 rank|Link|
+  |16.3.3 Row_number|Link|
+  |16.3.4 lead|Link|
+  |16.3.5 log|Link|
+  |16.4 CTEs (expressões de tabela comuns)|Link|
+  |16.5 SQL Dinâmico|Link|
+
+  
+</details>
 # 📚 Fontes
 
 - [O que é análise de dados? Saiba tudo sobre o tema!](https://www.cortex-intelligence.com/blog/inteligencia-de-mercado/o-que-e-analise-de-dados "O que é análise de dados")
+- [CURSO EXCEL - CONTEÚDO PROGRAMÁTICO](https://ifrs.edu.br/wp-content/uploads/2018/08/CONTEUDO-PROGRAMATICO-DIVULGA%C3%87%C3%83O-NO-SITE.pdf)
