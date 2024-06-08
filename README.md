@@ -4,7 +4,14 @@ Embora a análise de dados seja aplicada em diversas áreas, seu destaque é esp
 
 # 🛤️ Trilha de Estudos
 
+<details>
+  <summary>Conceitos básicos de estatística</summary>
+
+  |Conteúdo|Aula|
+  |:--------|----|
+  | Introdução à estatística|[Link]|
+</details>
 
 # 📚 Fontes
 
-[O que é análise de dados? Saiba tudo sobre o tema!](https://www.cortex-intelligence.com/blog/inteligencia-de-mercado/o-que-e-analise-de-dados "O que é análise de dados")
+- [O que é análise de dados? Saiba tudo sobre o tema!](https://www.cortex-intelligence.com/blog/inteligencia-de-mercado/o-que-e-analise-de-dados "O que é análise de dados")
