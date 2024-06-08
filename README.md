@@ -28,7 +28,7 @@ Esta trilha foi retirada do site da [Roadmap](https://roadmap.sh/) e conteúdo d
   |:--------|:----:|
   |**1. O que é análise de dados**|[Link](https://youtu.be/2KSalyW2_zE?si=OK_3I7qvLrgaKvu4 "Análise de dados: o que é, tipos e qual a sua importância? - Canal: Ploomes")|
   |**2. Tipos de análise de dados**|Link|
-  |2.1 Análise descritiva|Link|
+  |2.1 Análise descritiva|[Link](https://docs.google.com/document/d/1FquQKzHp7Z9mxSDY7ty6fg_qEjsGfcNO9zornJvAdXQ/edit?usp=sharing)|
   |2.2 Análise de diagnóstico|Link|
   |2.3 Análise preditiva|Link|
   |2.4 Análise prescritiva|Link|
