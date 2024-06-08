@@ -284,6 +284,7 @@ Esta trilha foi retirada do site da [Roadmap](https://roadmap.sh/) e conteúdo d
   |**2. Ggplot2**|Link|
   
 </details>
+
 # 📚 Fontes
 
 - [O que é análise de dados? Saiba tudo sobre o tema!](https://www.cortex-intelligence.com/blog/inteligencia-de-mercado/o-que-e-analise-de-dados "O que é análise de dados")
