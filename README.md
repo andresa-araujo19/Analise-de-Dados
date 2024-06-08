@@ -241,6 +241,47 @@ Esta trilha foi retirada do site da [Roadmap](https://roadmap.sh/) e conteúdo d
   |16.4 CTEs (expressões de tabela comuns)|Link|
   |16.5 SQL Dinâmico|Link|
 
+</details>
+
+<details>
+  <summary>Linguagem de programação para analistas de dados - Python</summary>
+
+  |Coteúdo|Aula|
+  |-------|----|
+  
+</details>
+
+<details>
+  <summary>Linguagem de programação para analistas de dados - R</summary>
+
+  |Coteúdo|Aula|
+  |-------|----|
+  
+</details>
+
+<details>
+  <summary>Bibliotecas de manipulação de dados - Pandas(Python)</summary>
+  
+  |Coteúdo|Aula|
+  |-------|----|
+  
+</details>
+
+<details>
+  <summary>Bibliotecas de manipulação de dados - Dplyr(R)</summary>
+
+  |Coteúdo|Aula|
+  |-------|----|
+  
+</details>
+
+<details>
+  <summary>Bibliotecas de visualização de dados</summary>
+
+  |Conteúdo|Aula|
+  |--------|----|
+  |**1. Matplotlib**|Link|
+  |**2. Ggplot2**|Link|
   
 </details>
 # 📚 Fontes
