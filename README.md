@@ -29,7 +29,7 @@ Embora a lista de habilidades necessárias possa parecer extensa, lembre-se de q
 <details>
   <summary>Pré-Cálculo</summary>
   
-     Esta seção fornecerá a base necessária para compreender Cálculo Diferencial, Integral e Álgebra Linear. Esses são os principais tópicos matemáticos que sustentam o funcionamento dos algoritmos de aprendizado de máquina.
+  Esta seção fornecerá a base necessária para compreender Cálculo Diferencial, Integral e Álgebra Linear. Esses são os principais tópicos matemáticos que sustentam o funcionamento dos algoritmos de aprendizado de máquina.
 
   |Conteúdo|Aula|Artigos|
   |--------|----|-------|
@@ -113,7 +113,7 @@ Embora a lista de habilidades necessárias possa parecer extensa, lembre-se de q
 <details>
   <summary>Cálculo Diferencial</summary>
 
-     Para treinar um modelo de machine learning, um método comum é a "descida de gradiente". Esse método consiste em seguir a direção da derivada de uma função para encontrar mínimos ou máximos, ajustando os parâmetros do modelo para otimização. O cálculo diferencial nos fornece as ferramentas essenciais para calcular derivadas e aprimorar os modelos de forma eficiente.
+  Para treinar um modelo de machine learning, um método comum é a "descida de gradiente". Esse método consiste em seguir a direção da derivada de uma função para encontrar mínimos ou máximos, ajustando os parâmetros do modelo para otimização. O cálculo diferencial nos fornece as ferramentas essenciais para calcular derivadas e aprimorar os modelos de forma eficiente.
 
   |Conteúdo|Aula|Artigos|
   |--------|----|-------|
@@ -133,7 +133,7 @@ Embora a lista de habilidades necessárias possa parecer extensa, lembre-se de q
 <details>
   <summary>Cálculo Integral</summary>
 
-     Embora as integrais não sejam tão frequentemente usadas quanto as derivadas, seu estudo é igualmente importante. Em modelos de grafos probabilísticos, integrais são frequentemente encontradas ao normalizar distribuições de probabilidades.
+  Embora as integrais não sejam tão frequentemente usadas quanto as derivadas, seu estudo é igualmente importante. Em modelos de grafos probabilísticos, integrais são frequentemente encontradas ao normalizar distribuições de probabilidades.
 
   |Conteúdo|Aula|Artigos|
   |--------|----|-------|
@@ -155,7 +155,7 @@ Embora a lista de habilidades necessárias possa parecer extensa, lembre-se de q
 <details>
   <summary>Cálculo Multivariável</summary>
 
-     Em machine learning, você frequentemente lidará com mais de uma variável simultaneamente. Até agora, você aprendeu a aplicar métodos de Cálculo em uma única variável. No entanto, nestas aulas, você aprenderá a estender esses métodos para cobrir duas ou mais variáveis.
+  Em machine learning, você frequentemente lidará com mais de uma variável simultaneamente. Até agora, você aprendeu a aplicar métodos de Cálculo em uma única variável. No entanto, nestas aulas, você aprenderá a estender esses métodos para cobrir duas ou mais variáveis.
 
 Em alguns casos, você pode ter milhões de variáveis para processar! Mas não se preocupe, você não precisará lidar com tudo manualmente. Mesmo assim, é crucial aprender esses conceitos para desenvolver uma intuição sobre o funcionamento dos algoritmos.
   
@@ -179,7 +179,7 @@ Em alguns casos, você pode ter milhões de variáveis para processar! Mas não 
 <details>
   <summary>Álgebra Linear</summary>
 
-     Esta é uma área essencial que nos capacita a expandir o cálculo para lidar com milhões de variáveis e construir modelos de machine learning para tarefas impressionantes. Em última análise, o machine learning, especialmente o deep learning, é essencialmente uma série de operações matemáticas aplicadas a matrizes e vetores.
+  Esta é uma área essencial que nos capacita a expandir o cálculo para lidar com milhões de variáveis e construir modelos de machine learning para tarefas impressionantes. Em última análise, o machine learning, especialmente o deep learning, é essencialmente uma série de operações matemáticas aplicadas a matrizes e vetores.
 
 Álgebra linear é a disciplina matemática que se concentra no estudo e desenvolvimento de métodos para manipular essas matrizes e vetores, tornando-a fundamental para seus estudos nessa área.
 
