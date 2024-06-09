@@ -56,12 +56,12 @@ Embora a lista de habilidades necessárias possa parecer extensa, lembre-se de q
   |--------|----|-------|
   |**1. Fundamentos da Álgebra**|
   |***1.1. Propriedades dos Números Reais***|
-  |1.1.1 Comutativa, Associativa, Distributiva|
-  |1.1.2 Identidade e Inverso|
+  |1.1.1 Comutativa, Associativa, Distributiva|[Conjunto dos Números Reais - Propriedade Multiplicativa (Comutativa)](https://youtu.be/NnS6zMhqKRs?si=kU-7w_HcZCz27xMI); [Conjunto dos Números Reais (Propriedade Multiplicativa e Associativa)](https://youtu.be/Y6gWuST5-TY?si=LsHFrleBu5LW4inQ); [Conjunto dos Números Reais (propriedades da adição, comutativa e associação)](https://youtu.be/8Q_kikh5Rgo?si=Y9Oeq18-GUr3Qelf)
+  |1.1.2 Identidade e Inverso|[Conjunto dos Números Reais - Propriedade Multiplicativa (Elemento Neutro e inverso Multiplicativo))](https://youtu.be/lI7bCvAHLNo?si=NBdsUJ0wx-YKiv3A); [Conjunto dos Números Reais (Propriedades da Adição, Elemento Neutro e Inverso Aditivo)](https://youtu.be/GVGE9lt6Em4?si=UZaMuFySZgqKotms)
   |***1.2 Operações Básicas***|
-  |1.2.1 Adição, Subtração, Multiplicação, Divisão|
-  |***1.3 Expressões Algébricas***|
-  |1.3.1 Simplificação, Expansão e Fatoração|
+  |1.2.1 Adição, Subtração, Multiplicação, Divisão|[Adição | Subtração | Multiplicação | Divisão](https://youtu.be/h3sFlP8Rmqc?si=kR_Fn--HlGjHs0aC)
+  |***1.3 Expressões Algébricas***|[EXPRESSÕES ALGÉBRICAS - Aula 1 - Definição de expressões algébricas](https://youtu.be/i7MZpiRht2E?si=txpRDQBa0_xZWFvW)
+  |1.3.1 Simplificação, Expansão e Fatoração|[SIMPLIFICAÇÃO DE EXPRESSÕES ALGÉBRICAS](https://youtu.be/4-P_0p17sGM?si=Bs-csWyQGuLXvhWv); 
   |***1.4 Equações e Inequações***|
   |1.4.1 Lineares, Quadráticas, Racionais, Radicais|
   |***1.5 Sistemas de Equações***|
