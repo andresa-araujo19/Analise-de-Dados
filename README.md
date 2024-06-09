@@ -1,3 +1,7 @@
+>[!NOTE]
+>
+>This is note text.
+
 # 🖥️ Análise de Dados
 
 Embora a análise de dados seja aplicada em diversas áreas, seu destaque é especialmente notável no mundo corporativo. Sua importância reside na capacidade de transformar dados em insights (💡) valiosos, essenciais para a tomada de decisões.
