@@ -23,15 +23,101 @@ Embora a lista de habilidades necessárias possa parecer extensa, lembre-se de q
 
 <details>
   <summary>Pré-Cálculo</summary>
-   #### Cursos:
 
   |Conteúdo|Aula|Artigos|
   |--------|----|-------|
-  |**Álgebra Elementar**|
-  |**Funções**|
-  |**Geometria Analítica**|
-  |**Trigonometria**|
+  |**1. Fundamentos da Álgebra**|
+  |***1.1. Propriedades dos Números Reais***|
+  |1.1.1 Comutativa, Associativa, Distributiva|
+  |1.1.2 Identidade e Inverso|
+  |***1.2 Operações Básicas***|
+  |1.2.1 Adição, Subtração, Multiplicação, Divisão|
+  |***1.3 Expressões Algébricas***|
+  |1.3.1 Simplificação, Expansão e Fatoração|
+  |***1.4 Equações e Inequações***|
+  |1.4.1 Lineares, Quadráticas, Racionais, Radicais|
+  |***1.5 Sistemas de Equações***|
+  |1.5.1 Métodos de Substituição e Eliminação|
+  |**2. Funções e Seus Gráficos**|
+  |***2.1 Conceitos de Função***|
+  |2.1.1 Definição, Domínio, Contradomínio, e Imagem|
+  |***2.2 Operações com Funções***|
+  |2.2.1 Soma, Diferença, Produto, Quociente, e Composição|
+  |***2.3 Funções Elementares***|
+  |2.3.1 Lineares|
+  |2.3.2 Quadráticas|
+  |2.3.3 Polinomiais|
+  |2.3.4 Racionais|
+  |***2.4 Transformações de Funções***|
+  |2.4.1 Translações|
+  |2.4.2 Reflexões|
+  |2.4.3 Escalonamento|
+  |***2.5 Gráficos***|
+  |2.5.1 Esboço e análise de gráficos de funções|
+  |**3. Funções Trigonométricas**|
+  |***3.1 Definição e Propriedades***|
+  |3.1.1 Seno|
+  |3.1.2 Cosseno|
+  |3.1.3 Tangente|
+  |3.1.4 Secante|
+  |3.1.5 Cossecante|
+  |3.1.6 Cotangente|
+  |***3.2 Gráficos das Funções Trigonométricas***|
+  |***3.3 Identidades Trigonométricas***|
+  |3.3.1 Pitagóricas, Soma e Diferença, Ângulos Duplos|
+  |***3.4 Equações Trigonométricas***|
+  |***3.5 Aplicações***|
+  |3.5.1 Modelagem de ondas, Círculos Unitários|
+  |**4. Funções Exponenciais e Logarítmicas**|
+  |***4.1 Funções Exponenciais***|
+  |4.1.1 Definição|
+  |4.1.2 Propriedades|
+  |4.1.3 Gráficos|
+  |***4.2 Funções Logarítmicas***|
+  |4.2.1 Definição|
+  |4.2.2 Propriedades|
+  |4.2.3 Gráficos|
+  |***4.3 Equações Exponenciais e Logarítmicas***|
+  |***4.4 Aplicações***|
+  |4.4.1 Crescimento e Decaimento Exponencial|
+  |**5. Geometria Analítica**|
+  |***5.1 Sistema de Coordenadas Cartesianas***|
+  |5.1.1 Pontos|
+  |5.1.2 Distância|
+  |5.1.3 Ponto Médio|
+  |***5.2 Equações da Reta***|
+  |5.2.1 Inclinação|
+  |5.2.2 Interseção|
+  |5.2.3 Formas Explícita e Implícita|
+  |***5.3 Cônicas***|
+  |5.3.1 Parabolas|
+  |5.3.2 Elipses|
+  |5.3.3 Hipérboles (equações e gráficos)|
+  |**6. Sequências e Séries**|
+  |***6.1 Sequências Numéricas***|
+  |6.1.1 Definição e termos gerais|
+  |***6.2 Progressões Aritméticas e Geométricas***|
+  |6.2.1 Fórmula do n-ésimo Termo, Soma dos Termos|
+  |***6.3 Séries***|
+  |6.3.1 Séries Finitas e Infinitas, Séries Geométricas|
+  
+</details>
 
+<details>
+  <summary>Cálculo Diferencial</summary>
+
+  |Conteúdo|Aula|Artigos|
+  |--------|----|-------|
+  |**1. Fundamentos de Funções e Limites**|
+  |**2. Continuidade**|
+  |**3. Derivadas**|
+  |**4. Aplicações das Derivadas**|
+  |**5. Aproximação e Linearização**|
+  |**6. Regras de L'Hôpital e Limites Avançados**|
+  |**7. Derivadas Implícitas e Paramétricas**|
+  |**8. Teoremas Fundamentais do Cálculo Diferencial**|
+  |**9. Aplicações Avançadas**|
+  |**10. Tópicos de Revisão e Extensão**|
   
 </details>
 
