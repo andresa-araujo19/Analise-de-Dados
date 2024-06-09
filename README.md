@@ -54,7 +54,7 @@ Esta trilha foi retirada do vídeo [Entre mais rápido na área de dados, seja u
   <summary>Conhecimento de negócio</summary>
 
   |Conteúdo|Aula|
-  |--------|----|
+  |:--------|:----:|
   |**1. Fundamentos de Negócios**|Link|
   |**1.1. Modelos de Negócio**|Link|
   |_**1.1.1 Tipos de Modelos de Negócio**_|Link|
@@ -90,7 +90,11 @@ Esta trilha foi retirada do vídeo [Entre mais rápido na área de dados, seja u
   |1.4.2.1 Lean, Six Sigma|Link|
   |***1.4.3 Gestão da Qualidade***|Link|
   |1.4.3.1 Controle de Qualidade, Melhoria Contínua|Link|
-  
+  |**1.5. Gestão de Riscos**|Link|
+  |***1.5.1 Identificação de Riscos***|Link|
+  |1.5.1.2 Tipos de Riscos (Operacional, Financeiro, Estratégico, Compliance)|Link|
+  |***1.5.2 Avaliação de Riscos***|Link|
+  |***1.5.3 Mitigação de Riscos***|Link|
   
 </details>
 
