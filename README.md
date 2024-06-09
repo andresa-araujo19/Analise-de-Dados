@@ -378,7 +378,6 @@ Em alguns casos, você pode ter milhões de variáveis para processar! Mas não 
   
 </details>
 
----
 <details>
   <summary>SQL</summary>
 
@@ -437,7 +436,6 @@ Em alguns casos, você pode ter milhões de variáveis para processar! Mas não 
 
 </details>
 
----
 <details>
   <summary>Linguagem de programação para analistas de dados - Python</summary>
 
@@ -446,7 +444,6 @@ Em alguns casos, você pode ter milhões de variáveis para processar! Mas não 
   
 </details>
 
----
 <details>
   <summary>Linguagem de programação para analistas de dados - R</summary>
 
