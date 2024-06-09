@@ -16,6 +16,11 @@ Abaixo deixo alguns curos gratuitos ❤️.
 #### Demais cursos
 - [Trilha de aprendizagem: Análise de Dados - Fundamentos](https://www.escolavirtual.gov.br/trilha/84)
 - [Certificado Profissional Análise de dados do Google](https://www.coursera.org/professional-certificates/google-data-analytics "Curso de análise de dados")
+- [Pré-Cálculo - Khan Academy](https://pt.khanacademy.org/math/precalculus)
+- [Cálculo Diferencial - Khan Academy](https://pt.khanacademy.org/math/differential-calculus)
+- [Cálculo integral - Khan Academy](https://pt.khanacademy.org/math/integral-calculus)
+- [Cálculo multivariável - Khan Academy](https://pt.khanacademy.org/math/multivariable-calculus)
+- [Álgebra linear - Khan Academy](https://pt.khanacademy.org/math/linear-algebra)
 ---
 
 # 🛤️ Trilha de Estudos  
