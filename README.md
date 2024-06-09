@@ -59,11 +59,11 @@ Embora a lista de habilidades necessárias possa parecer extensa, lembre-se de q
   |1.1.1 Comutativa, Associativa, Distributiva|[Conjunto dos Números Reais - Propriedade Multiplicativa (Comutativa)](https://youtu.be/NnS6zMhqKRs?si=kU-7w_HcZCz27xMI); [Conjunto dos Números Reais (Propriedade Multiplicativa e Associativa)](https://youtu.be/Y6gWuST5-TY?si=LsHFrleBu5LW4inQ); [Conjunto dos Números Reais (propriedades da adição, comutativa e associação)](https://youtu.be/8Q_kikh5Rgo?si=Y9Oeq18-GUr3Qelf)
   |1.1.2 Identidade e Inverso|[Conjunto dos Números Reais - Propriedade Multiplicativa (Elemento Neutro e inverso Multiplicativo))](https://youtu.be/lI7bCvAHLNo?si=NBdsUJ0wx-YKiv3A); [Conjunto dos Números Reais (Propriedades da Adição, Elemento Neutro e Inverso Aditivo)](https://youtu.be/GVGE9lt6Em4?si=UZaMuFySZgqKotms)
   |***1.2 Operações Básicas***|
-  |1.2.1 Adição, Subtração, Multiplicação, Divisão|[Adição | Subtração | Multiplicação | Divisão](https://youtu.be/h3sFlP8Rmqc?si=kR_Fn--HlGjHs0aC)
+  |1.2.1 Adição, Subtração, Multiplicação, Divisão|[Adição - Subtração - Multiplicação - Divisão](https://youtu.be/h3sFlP8Rmqc?si=kR_Fn--HlGjHs0aC)
   |***1.3 Expressões Algébricas***|[EXPRESSÕES ALGÉBRICAS - Aula 1 - Definição de expressões algébricas](https://youtu.be/i7MZpiRht2E?si=txpRDQBa0_xZWFvW)
-  |1.3.1 Simplificação, Expansão e Fatoração|[SIMPLIFICAÇÃO DE EXPRESSÕES ALGÉBRICAS](https://youtu.be/4-P_0p17sGM?si=Bs-csWyQGuLXvhWv); 
+  |1.3.1 Simplificação, Expansão e Fatoração|[EXPRESSÕES ALGÉBRICAS | RÁPIDO e FÁCIL](https://youtu.be/8NNA-8rimNs?si=xNWSCV3hSmLQdAMr); [SIMPLIFICAÇÃO DE EXPRESSÕES ALGÉBRICAS](https://youtu.be/4-P_0p17sGM?si=Bs-csWyQGuLXvhWv); [FATORAÇÃO ALGÉBRICA | RÁPIDO E FÁCIL](https://youtu.be/BoJaNfpV4Tk?si=2vpO1bREqTlX0cLA)
   |***1.4 Equações e Inequações***|
-  |1.4.1 Lineares, Quadráticas, Racionais, Radicais|
+  |1.4.1 Lineares, Quadráticas, Racionais, Radicais|[Equação do Primeiro Grau](https://youtube.com/playlist?list=PL-LPJn0YTIEFh4KKOhHGNRfeo7-8ve1ft&si=U0SydcqsqHAOFQaN); [Equação do 2º Grau - Uma abordagem completa.](https://youtube.com/playlist?list=PLEfwqyY2ox8627m3qeh8eaS8nNFZDeTL4&si=I6yIC7dTM06zwyQL); 
   |***1.5 Sistemas de Equações***|
   |1.5.1 Métodos de Substituição e Eliminação|
   |**2. Funções e Seus Gráficos**|
@@ -74,7 +74,7 @@ Embora a lista de habilidades necessárias possa parecer extensa, lembre-se de q
   |***2.3 Funções Elementares***|
   |2.3.1 Lineares|
   |2.3.2 Quadráticas|
-  |2.3.3 Polinomiais|
+  |2.3.3 Polinomiais|[POLINÔMIOS](https://youtube.com/playlist?list=PLEfwqyY2ox84iIVoCHP8JjObsXQtVjh2k&si=_UvSvJ7kKdDRkbUy)
   |2.3.4 Racionais|
   |***2.4 Transformações de Funções***|
   |2.4.1 Translações|
