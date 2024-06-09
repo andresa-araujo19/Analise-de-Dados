@@ -1,4 +1,4 @@
->[!ATENÇÃO]
+>[!NOTE]
 >
 >Em elaboração.
 >
