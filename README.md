@@ -27,6 +27,27 @@ Abaixo deixo alguns curos gratuitos ❤️.
 Embora a lista de habilidades necessárias possa parecer extensa, lembre-se de que não é preciso se cobrar para dominar tudo de uma vez👍🏻.
 
 <details>
+  <summary>Introdução</summary>
+
+  |Conteúdo|Aula|
+  |:--------|:----:|
+  |**1. O que é análise de dados**|[Link](https://youtu.be/2KSalyW2_zE?si=OK_3I7qvLrgaKvu4 "Análise de dados: o que é, tipos e qual a sua importância? - Canal: Ploomes")|
+  |**2. Tipos de análise de dados**|Link|
+  |2.1 Análise descritiva|[Link](https://docs.google.com/document/d/1FquQKzHp7Z9mxSDY7ty6fg_qEjsGfcNO9zornJvAdXQ/edit?usp=sharing)|
+  |2.2 Análise de diagnóstico|Link|
+  |2.3 Análise preditiva|Link|
+  |2.4 Análise prescritiva|Link|
+  |**3. Conceitos chaves**|Link|
+  |3.1 Coleção|Link|
+  |3.2 Cleanup|Link|
+  |3.3 Exploração|Link|
+  |3.4 Vizualização|Link|
+  |3.5 Análise estatística|Link|
+  |3.6 Aprendizado de máquina/Machine Learning|Link|
+  
+</details>
+
+<details>
   <summary>Pré-Cálculo</summary>
   
   Esta seção fornecerá a base necessária para compreender Cálculo Diferencial, Integral e Álgebra Linear. Esses são os principais tópicos matemáticos que sustentam o funcionamento dos algoritmos de aprendizado de máquina.
@@ -210,28 +231,6 @@ Em alguns casos, você pode ter milhões de variáveis para processar! Mas não 
   |**6. Variância**|
   |**7. Tradeoff Viés/Variância**|
   |**8. Correlação**|
-  
-</details>
-
----
-<details>
-  <summary>Introdução</summary>
-
-  |Conteúdo|Aula|
-  |:--------|:----:|
-  |**1. O que é análise de dados**|[Link](https://youtu.be/2KSalyW2_zE?si=OK_3I7qvLrgaKvu4 "Análise de dados: o que é, tipos e qual a sua importância? - Canal: Ploomes")|
-  |**2. Tipos de análise de dados**|Link|
-  |2.1 Análise descritiva|[Link](https://docs.google.com/document/d/1FquQKzHp7Z9mxSDY7ty6fg_qEjsGfcNO9zornJvAdXQ/edit?usp=sharing)|
-  |2.2 Análise de diagnóstico|Link|
-  |2.3 Análise preditiva|Link|
-  |2.4 Análise prescritiva|Link|
-  |**3. Conceitos chaves**|Link|
-  |3.1 Coleção|Link|
-  |3.2 Cleanup|Link|
-  |3.3 Exploração|Link|
-  |3.4 Vizualização|Link|
-  |3.5 Análise estatística|Link|
-  |3.6 Aprendizado de máquina/Machine Learning|Link|
   
 </details>
 
