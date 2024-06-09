@@ -28,6 +28,8 @@ Embora a lista de habilidades necessárias possa parecer extensa, lembre-se de q
 
 <details>
   <summary>Pré-Cálculo</summary>
+  
+  Esta seção fornecerá a base necessária para compreender Cálculo Diferencial, Integral e Álgebra Linear. Esses são os principais tópicos matemáticos que sustentam o funcionamento dos algoritmos de aprendizado de máquina.
 
   |Conteúdo|Aula|Artigos|
   |--------|----|-------|
@@ -111,6 +113,8 @@ Embora a lista de habilidades necessárias possa parecer extensa, lembre-se de q
 <details>
   <summary>Cálculo Diferencial</summary>
 
+  Para treinar um modelo de machine learning, um método comum é a "descida de gradiente". Esse método consiste em seguir a direção da derivada de uma função para encontrar mínimos ou máximos, ajustando os parâmetros do modelo para otimização. O cálculo diferencial nos fornece as ferramentas essenciais para calcular derivadas e aprimorar os modelos de forma eficiente.
+
   |Conteúdo|Aula|Artigos|
   |--------|----|-------|
   |**1. Fundamentos de Funções e Limites**|
@@ -123,6 +127,73 @@ Embora a lista de habilidades necessárias possa parecer extensa, lembre-se de q
   |**8. Teoremas Fundamentais do Cálculo Diferencial**|
   |**9. Aplicações Avançadas**|
   |**10. Tópicos de Revisão e Extensão**|
+  
+</details>
+
+<details>
+  <summary>Cálculo Integral</summary>
+
+  Embora as integrais não sejam tão frequentemente usadas quanto as derivadas, seu estudo é igualmente importante. Em modelos de grafos probabilísticos, integrais são frequentemente encontradas ao normalizar distribuições de probabilidades.
+
+  |Conteúdo|Aula|Artigos|
+  |--------|----|-------|
+  |**1. Fundamentos das Integrais**|
+  |**2. Integração de Funções Simples**|
+  |**3. Técnicas de Integração**|
+  |**4. Aplicações da Integral Definida**|
+  |**5. Integral Indefinida e Suas Propriedades**|
+  |**6. Teorema Fundamental do Cálculo**|
+  |**7. Integrais Improprias**|
+  |**8. Integrais Paramétricas e Polaress**|
+  |**9. Aplicações Físicas e Práticas**|
+  |**10. Séries e Sequências**|
+  |**11. Técnicas Avançadas de Integração**|
+  
+</details>
+
+
+<details>
+  <summary>Cálculo Multivariável</summary>
+
+  Em machine learning, você frequentemente lidará com mais de uma variável simultaneamente. Até agora, você aprendeu a aplicar métodos de Cálculo em uma única variável. No entanto, nestas aulas, você aprenderá a estender esses métodos para cobrir duas ou mais variáveis.
+
+Em alguns casos, você pode ter milhões de variáveis para processar! Mas não se preocupe, você não precisará lidar com tudo manualmente. Mesmo assim, é crucial aprender esses conceitos para desenvolver uma intuição sobre o funcionamento dos algoritmos.
+  
+ |Conteúdo|Aula|Artigos|
+ |--------|----|-------|
+ |**1. Fundamentos de Funções de Várias Variáveis**|
+ |**2. Limites e Continuidade**|
+ |**3. Derivadas Parciais e Gradiente**|
+ |**4. Diferenciação de Funções de Várias Variáveis**|
+ |**5. Aplicações de Derivadas Parciais**|
+ |**6. Integração em Várias Variáveis**|
+ |**7. Aplicações de Integrais Múltiplas**|
+ |**8. Campos Vetoriais**|
+ |**9. Integrais de Linha e Superfície**|
+ |**10. Teoremas Fundamentais do Cálculo Vetorial**|
+ |**11. Coordenadas Curvilíneas**|
+ |**12. Equações Diferenciais Parciais Básicas**|
+  
+</details>
+
+<details>
+  <summary>Álgebra Linear</summary>
+
+  Esta é uma área essencial que nos capacita a expandir o cálculo para lidar com milhões de variáveis e construir modelos de machine learning para tarefas impressionantes. Em última análise, o machine learning, especialmente o deep learning, é essencialmente uma série de operações matemáticas aplicadas a matrizes e vetores.
+
+Álgebra linear é a disciplina matemática que se concentra no estudo e desenvolvimento de métodos para manipular essas matrizes e vetores, tornando-a fundamental para seus estudos nessa área.
+
+  |Conteúdo|Aula|Artigos|
+  |--------|----|-------|
+ |**1. Vetores no Espaço**|
+ |**2. Espaços Vetoriais**|
+ |**3. Matrizes e Sistemas de Equações Lineares**|
+ |**4. Determinantes**|
+ |**5. Espaços Vetoriais com Produto Interno**|
+ |**6. Diagonalização de Matrizes e Aplicações**|
+ |**7. Formas Canônicas e Decomposições**|
+ |**8. Espaços Vetoriais com Produto Interno Completo**|
+ |**9. Aplicações Avançadas**|
   
 </details>
 
