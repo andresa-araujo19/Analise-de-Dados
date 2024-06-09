@@ -247,6 +247,7 @@ Esta trilha foi retirada de vários lugares, deixarei em "Fontes" os demais link
 
 </details>
 
+---
 <details>
   <summary>Linguagem de programação para analistas de dados - Python</summary>
 
@@ -255,11 +256,26 @@ Esta trilha foi retirada de vários lugares, deixarei em "Fontes" os demais link
   
 </details>
 
+---
 <details>
   <summary>Linguagem de programação para analistas de dados - R</summary>
 
   |Coteúdo|Aula|
   |-------|----|
+  |**1. Noções básicas de programação R**|Link|
+  |1.1 Instalação e configuração|Link|
+  |1.3 Sintaxe Básica|Link|
+  |1.4 Aritmética em R|Link|
+  |1.5 Operadores de comparação|Link|
+  |***1.6 Tipos de dados e estruturas de dados***|Link|
+  |1.6.1 Vetores|Link|
+  |1.6.2 Matrizaes|Link|
+  |1.6.3 Arrays|Link|
+  |1.6.4 Quadro de dados/Dataframe|Link|
+  |1.6.5 |Link|
+  |1.6.6 |Link|
+  |1.6.7 |Link|
+  |1.6.8 |Link|
   
 </details>
 
