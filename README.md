@@ -1,6 +1,7 @@
 >[!NOTE]
 >
->This is note text.
+>Em elaboração.
+>
 
 # 🖥️ Análise de Dados
 
