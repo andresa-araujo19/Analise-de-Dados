@@ -23,7 +23,7 @@ Embora a lista de habilidades necessárias possa parecer extensa, lembre-se de q
 
 <details>
   <summary>Pré-Cálculo</summary>
-  #### Cursos:
+   #### Cursos:
 
   |Conteúdo|Aula|Artigos|
   |--------|----|-------|
