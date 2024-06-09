@@ -198,18 +198,18 @@ Em alguns casos, você pode ter milhões de variáveis para processar! Mas não 
 </details>
 
 <details>
-  <summay>Estatística</summay>
+  <summary>Estatística</summary>
 
- |Conteúdo|Aula|Artigos|
- |--------|----|-------|
- |**1. Amostragem**|
- |**2. Estatística Descritiva**|
- |**3. Distribuições**|
- |**4. Probabilidade**|
- |**5. Viés**|
- |**6. Variância**|
- |**7. Tradeoff Viés/Variância**|
- |**8. Correlação**|
+  |Conteúdo|Aula|Artigos|
+  |--------|----|-------|
+  |**1. Amostragem**|
+  |**2. Estatística Descritiva**|
+  |**3. Distribuições**|
+  |**4. Probabilidade**|
+  |**5. Viés**|
+  |**6. Variância**|
+  |**7. Tradeoff Viés/Variância**|
+  |**8. Correlação**|
   
 </details>
 
