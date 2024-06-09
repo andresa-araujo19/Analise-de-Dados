@@ -19,7 +19,7 @@ Abaixo deixo alguns curos gratuitos ❤️.
 ---
 
 # 🛤️ Trilha de Estudos  
-Esta trilha foi retirada do site da [Roadmap](https://roadmap.sh/) e conteúdo de outras fontes (deixarei em "Fontes os demais links) 👍🏻.
+Esta trilha foi retirada do vídeo [Entre mais rápido na área de dados, seja um Analista de Dados em 2024.](https://youtu.be/VhVAZaOpg-U?si=CCgX1Hk0s9NUDRPw) do canal [Comunidade DS](https://www.youtube.com/@ComunidadeDS) e conteúdo de outras fontes (deixarei em "Fontes os demais links) 👍🏻.
 
 <details>
   <summary>Introdução</summary>
@@ -39,6 +39,58 @@ Esta trilha foi retirada do site da [Roadmap](https://roadmap.sh/) e conteúdo d
   |3.4 Vizualização|Link|
   |3.5 Análise estatística|Link|
   |3.6 Aprendizado de máquina/Machine Learning|Link|
+  
+</details>
+
+<details>
+  <summary>Linguagem SQL</summary>
+
+  |Conteúdo|Aula|
+  |--------|----|
+  
+</details>
+
+<details>
+  <summary>Conhecimento de negócio</summary>
+
+  |Conteúdo|Aula|
+  |--------|----|
+  |**1. Fundamentos de Negócios**|Link|
+  |**1.1. Modelos de Negócio**|Link|
+  |_**1.1.1 Tipos de Modelos de Negócio**_|Link|
+  |1.1.1.1 B2B (Business-to-Business)|Link|
+  |1.1.1.2 B2C (Business-to-Consumer)|Link|
+  |1.1.1.3 C2C (Consumer-to-Consumer)|Link|
+  |1.1.1.4 D2C (Direct-to-Consumer)|Link|
+  |***1.1.2 Componentes dos Modelos de Negócio***|Link|
+  |1.1.2.1 Proposta de Valor|Link|
+  |1.1.2.2 Segmentos de Clientes|Link|
+  |1.1.2.3 Canais de Distribuição|Link|
+  |1.1.2.4 Relacionamento com Clientes|Link|
+  |1.1.2.5 Fluxos de Receita|Link|
+  |**1.2 Estratégia Empresarial**|Link|
+  |***1.2.1 Formulação de Estratégia***|Link|
+  |1.2.1.1 Missão, Visão, Valores|Link|
+  |1.2.1.2 Análise SWOT (Forças, Fraquezas, Oportunidades, Ameaças)|Link|
+  |***1.2.2 Modelos de Planejamento Estratégico***|Link|
+  |1.2.2.1 Matriz BCG (Boston Consulting Group)|Link|
+  |1.2.2.2 Modelo de Forças de Porter|Link|
+  |**1.3. Gestão de Projetos**|Link|
+  |***1.3.1 Ciclo de Vida do Projeto***|Link|
+  |1.3.1.1 Iniciação, Planejamento, Execução, Monitoramento e Controle, Encerramento|Link|
+  |***1.3.2 Metodologias de Projeto***|Link|
+  |1.3.2.1 Tradicional (Waterfall)|Link|
+  |1.3.2.2 Ágil (Scrum, Kanban)|Link|
+  |***1.3.3 Ferramentas de Gerenciamento***|Link|
+  |1.3.3.1 Gantt Charts, Critical Path Method (CPM)|Link|
+  |**1.4. Processos de Negócio**|Link|
+  |***1.4.1 Mapeamento de Processos***|Link|
+  |1.4.1.1 Identificação de Entradas, Saídas, e Atividades|Link|
+  |***1.4.2 Otimização de Processos***|Link|
+  |1.4.2.1 Lean, Six Sigma|Link|
+  |***1.4.3 Gestão da Qualidade***|Link|
+  |1.4.3.1 Controle de Qualidade, Melhoria Contínua|Link|
+  
   
 </details>
 
