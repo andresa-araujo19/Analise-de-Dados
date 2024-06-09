@@ -19,7 +19,21 @@ Abaixo deixo alguns curos gratuitos ❤️.
 ---
 
 # 🛤️ Trilha de Estudos  
-Esta trilha foi retirada de vários lugares, deixarei em "Fontes" os demais link👍🏻.
+Embora a lista de habilidades necessárias possa parecer extensa, lembre-se de que não é preciso se cobrar para dominar tudo de uma vez👍🏻.
+
+<details>
+  <summary>Pré-Cálculo</summary>
+  #### Cursos:
+
+  |Conteúdo|Aula|Artigos|
+  |--------|----|-------|
+  |**Álgebra Elementar**|
+  |**Funções**|
+  |**Geometria Analítica**|
+  |**Trigonometria**|
+
+  
+</details>
 
 ---
 <details>
