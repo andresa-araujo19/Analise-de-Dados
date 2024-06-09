@@ -92,9 +92,129 @@ Esta trilha foi retirada do vídeo [Entre mais rápido na área de dados, seja u
   |1.4.3.1 Controle de Qualidade, Melhoria Contínua|Link|
   |**1.5. Gestão de Riscos**|Link|
   |***1.5.1 Identificação de Riscos***|Link|
-  |1.5.1.2 Tipos de Riscos (Operacional, Financeiro, Estratégico, Compliance)|Link|
+  |1.5.1.1 Tipos de Riscos (Operacional, Financeiro, Estratégico, Compliance)|Link|
   |***1.5.2 Avaliação de Riscos***|Link|
+  |1.5.2.1 Qualitativa, Quantitativa|Link|
   |***1.5.3 Mitigação de Riscos***|Link|
+  |1.5.3.1 Planos de Resposta a Riscos|Link|
+  |**2. Finanças e Contabilidade**|Link|
+  |**2.1. Contabilidade Financeira**|Link|
+  |***2.1.1 Demonstrações Financeiras***|Link|
+  |2.1.1.1 Balanço Patrimonial|Link|
+  |2.1.1.2 Demonstração de Resultados|Link|
+  |2.1.1.3 Demonstração de Fluxo de Caixa|Link|
+  |***2.1.2 Principais Contas***|Link|
+  |2.1.2.1 Ativos, Passivos, Patrimônio Líquido, Receita, Despesas|Link|
+  |**2.2. Análise Financeira**|Link|
+  |***2.2.1 Indicadores Financeiros***|Link|
+  |2.2.1.1 Liquidez (Razão Corrente, Quick Ratio)|Link|
+  |2.2.1.2 Rentabilidade (Margem de Lucro, ROE, ROA)|Link|
+  |***2.2.2 Análise Horizontal e Vertical***|Link|
+  |2.2.2.1 Análise de Tendências, Composição de Demonstrativos|Link|
+  |**2.3. Orçamento e Planejamento Financeiro**|Link|
+  |***2.3.1 Previsão Financeira***|Link|
+  |2.3.1.1 Projeções de Receita e Despesa|Link|
+  |***2.3.2 Modelagem de Cenários***|Link|
+  |2.3.2.1 Análise de Sensibilidade, Simulações|Link|
+  |**2.4. Gestão de Custos**|Link|
+  |***2.4.1 Custos Fixos e Variáveis***|Link|
+  |2.4.1.1 Análise de Break-even, Margem de Contribuição|Link|
+  |***2.4.2 Contabilidade de Custos***|Link|
+  |2.4.2.1 Custeio por Absorção, Custeio Variável|Link|
+  |**3. Marketing e Vendas**|Link|
+  |**3.1. Estratégia de Marketing**|Link|
+  |***3.1.1 Análise de Mercado***|Link|
+  |3.1.1.1 Segmentação, Targeting, Posicionamento|Link|
+  |***3.1.2 Mix de Marketing (4 P’s)***|Link|
+  |3.1.2.1 Produto, Preço, Praça, Promoção|Link|
+  |***3.1.3 Planejamento de Campanhas***|Link|
+  |3.1.3.1 Objetivos, Público-alvo, Canais|Link|
+  |**3.2. Análise de Clientes**|Link|
+  |***3.2.1 Segmentação de Clientes***|Link|
+  |3.2.1.1 Demográfica, Geográfica, Psicográfica, Comportamental|Link|
+  |***3.2.2 Gestão de Relacionamento com Clientes (CRM)***|Link|
+  |3.2.2.1 Ciclo de Vida do Cliente, Valor do Cliente ao Longo do Tempo (CLTV)|Link|
+  |**3.3. Métricas de Marketing**|Link|
+  |***3.3.1 Métricas de Desempenho***|Link|
+  |3.3.1.1 ROI de Marketing, Taxa de Conversão, Custo por Aquisição (CPA)|Link|
+  |***3.3.2 Análise de Campanhas***|Link|
+  |3.3.2.1 A/B Testing, Métricas de Campanhas Digitais (CTR, CPC, CPA)|Link|
+  |**3.4. Estratégia de Vendas**|Link|
+  |***3.4.1 Ciclo de Vendas***|Link|
+  |3.4.1.1 Prospecção, Qualificação, Fechamento|Link|
+  |***3.4.2 Gestão de Pipeline de Vendas***|Link|
+  |3.4.2.1 Previsão de Vendas, CRM|Link|
+  |**4. Operações e Logística**|Link|
+  |**4.1. Gestão de Operações**|Link|
+  |***4.1.1 Cadeia de Suprimentos***|Link|
+  |4.1.1.1 Planejamento de Demanda, Gestão de Estoques, Logística|Link|
+  |***4.1.2 Produção e Serviços***|Link|
+  |4.1.2.1 Planejamento e Controle de Produção, Gestão da Capacidade|Link|
+  |**4.2. Gestão da Qualidade**|Link|
+  |***4.2.1 Modelos de Qualidade***|Link|
+  |4.2.1.1 ISO 9001, Total Quality Management (TQM)|Link|
+  |***4.2.2 Ferramentas de Qualidade***|Link|
+  |4.2.2.1 Diagrama de Ishikawa, Pareto, Controle Estatístico de Processo (CEP)|Link|
+  |**4.3. Otimização de Processos**|Link|
+  |***4.3.1 Metodologias de Melhoria***|Link|
+  |4.3.1.1 Lean, Six Sigma|Link|
+  |***4.3.2 Análise de Gargalos***|Link|
+  |4.3.2.1 Identificação e Mitigação de Gargalos na Produção|Link|
+  |**5. Pesquisa e Desenvolvimento (P&D)**|Link|
+  |**5.1. Inovação e Desenvolvimento de Produtos**|Link|
+  |***5.1.1 Gestão de Inovação***|Link|
+  |5.1.1.1 Ciclo de Vida do Produto, Gestão de Portfólio de Produtos|Link|
+  |***5.1.2 Desenvolvimento Ágil***|Link|
+  |5.1.2.1 Metodologias de Desenvolvimento Ágil (Scrum, Kanban)|Link|
+  |**5.2. Propriedade Intelectual**|Link|
+  |***5.2.1 Patentes e Marcas***|Link|
+  |5.2.1.1 Processos de Registro, Gestão de Propriedade Intelectual|Link|
+  |**6. Governança e Conformidade**|Link|
+  |**6.1. Governança Corporativa**|Link|
+  |***6.1.1 Estrutura de Governança***|Link|
+  |6.1.1.1 Conselho de Administração, Comitês|Link|
+  |***6.1.2 Práticas de Governança***|Link|
+  |6.1.2.1 Transparência, Responsabilidade, Equidade|Link|
+  |**6.2. Conformidade Regulamentar**|Link|
+  |***6.2.1 Regulamentações Relevantes***|Link|
+  |6.2.1.1 GDPR, LGPD, SOX (Sarbanes-Oxley Act)|Link|
+  |***6.2.2 Programas de Conformidade***|Link|
+  |6.2.2.1 Implementação de Controles Internos, Auditorias de Conformidade|Link|
+  |**6.3. Gestão de Riscos**|Link|
+  |***6.3.1 Identificação e Avaliação de Riscos***|Link|
+  |6.3.1.1 Riscos Operacionais, Riscos de Compliance, Riscos Financeiros|Link|
+  |***6.3.2 Mitigação e Resposta a Riscos***|Link|
+  |6.3.2.1 Planos de Continuidade de Negócios, Gestão de Crises|Link|
+  |**7. Inteligência de Mercado**|Link|
+  |**7.1. Análise de Concorrência**|Link|
+  |***7.1.1 Benchmarking***|Link|
+  |7.1.1.1 Comparação de Performance com Concorrentes|Link|
+  |***7.1.2 Análise de Forças de Porter***|Link|
+  |7.1.2.1 Rivalidade Competitiva, Poder de Negociação, Ameaça de Novos Entrantes|Link|
+  |**7.2. Previsão de Mercado**|Link|
+  |***7.2.1 Tendências e Projeções***|Link|
+  |7.2.1.1 Identificação de Tendências, Modelagem de Cenários|Link|
+  |***7.2.2 Análise de Dados de Mercado***|Link|
+  |7.2.2.1 Pesquisas de Mercado, Dados de Venda|Link|
+  |**7.3. Gestão de Informações**|Link|
+  |***7.3.1 Sistemas de Informação***|Link|
+  |7.3.1.1 CRM, ERP, Sistemas de BI (Business Intelligence)|Link|
+  |**8. Gestão de Pessoas e Cultura Organizacional**|Link|
+  |**8.1. Gestão de Recursos Humanos**|Link|
+  |***8.1.1 Recrutamento e Seleção***|Link|
+  |8.1.1.1 Processos de Recrutamento, Técnicas de Entrevista|Link|
+  |***8.1.2 Desenvolvimento e Retenção***|Link|
+  |8.1.2.1 Planos de Carreira, Programas de Treinamento|Link|
+  |**8.2. Cultura Organizacional**|Link|
+  |***8.2.1 Desenvolvimento de Cultura***|Link|
+  |8.2.1.1 Valores e Normas Organizacionais|Link|
+  |***8.2.2 Engajamento de Funcionários***|Link|
+  |8.2.2.1 Satisfação no Trabalho, Retenção de Talentos|Link|
+  |**8.3. Gestão de Desempenho**|Link|
+  |***8.3.1 Avaliação de Desempenho***|Link|
+  |8.3.1.1 Métodos de Avaliação, Feedback Contínuo|Link|
+  |***8.3.2 Planejamento de Sucessão***|Link|
+  |8.3.2.1 Identificação de Talentos, Planos de Desenvolvimento|Link|
   
 </details>
 
