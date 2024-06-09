@@ -197,6 +197,22 @@ Em alguns casos, você pode ter milhões de variáveis para processar! Mas não 
   
 </details>
 
+<details>
+  <summay>Estatística</summay>
+
+ |Conteúdo|Aula|Artigos|
+ |--------|----|-------|
+ |**1. Amostragem**|
+ |**2. Estatística Descritiva**|
+ |**3. Distribuições**|
+ |**4. Probabilidade**|
+ |**5. Viés**|
+ |**6. Variância**|
+ |**7. Tradeoff Viés/Variância**|
+ |**8. Correlação**|
+  
+</details>
+
 ---
 <details>
   <summary>Introdução</summary>
@@ -485,3 +501,4 @@ Em alguns casos, você pode ter milhões de variáveis para processar! Mas não 
 
 - [O que é análise de dados? Saiba tudo sobre o tema!](https://www.cortex-intelligence.com/blog/inteligencia-de-mercado/o-que-e-analise-de-dados "O que é análise de dados")
 - [CURSO EXCEL - CONTEÚDO PROGRAMÁTICO](https://ifrs.edu.br/wp-content/uploads/2018/08/CONTEUDO-PROGRAMATICO-DIVULGA%C3%87%C3%83O-NO-SITE.pdf)
+- [Plano Completo Para Aprender Matemática De Data Science Grátis](https://mariofilho.com/plano-completo-para-aprender-matem%C3%A1tica-de-data-science/)
