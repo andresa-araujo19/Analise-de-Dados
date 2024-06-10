@@ -26,10 +26,106 @@ Abaixo deixo alguns curos gratuitos ❤️.
 - [Cálculo multivariável - Khan Academy](https://pt.khanacademy.org/math/multivariable-calculus)
 - [Álgebra linear - Khan Academy](https://pt.khanacademy.org/math/linear-algebra)
 ---
+# 📖 O que estudar
+A lista de habilidades é extensa, mas a recomendação de não se cobrar para dominar tudo de uma vez é sábia. O aprendizado é contínuo, e a prática diária aprimora as habilidades.
 
-# 🛤️ Trilha de Estudos  
-Embora a lista de habilidades necessárias possa parecer extensa, lembre-se de que não é preciso se cobrar para dominar tudo de uma vez👍🏻.
+## O que você precisa saber:  
+### Negócio  
+Serve para:
 
+- **Problema de negócio:** Entender a necessidade de negócio que o projeto de análise de dados deve resolver.
+- **Definição do baseline:** Estabelecer um ponto de referência para medir o progresso.
+- **Conversão de performance dos algoritmos em resultado de negócio:** Traduzir os ganhos técnicos em impacto tangível para o negócio.
+
+Comentário:
+
+- Compreender o contexto do negócio é crucial. As soluções devem sempre ter um propósito alinhado com os objetivos da empresa.
+
+### Excel  
+Serve para:
+
+- **Manipulação de dados:** Realizar análises básicas e intermediárias de dados.
+- **Visualização:** Criar gráficos e tabelas para representar dados.
+- **Modelagem:** Construir modelos simples como tabelas de sensibilidade e simulações.
+- **Automatização:** Utilizar fórmulas e macros para tarefas repetitivas.
+
+Comentário:
+
+- O Excel é uma ferramenta poderosa para análises rápidas e para situações onde soluções mais complexas não são necessárias. É especialmente útil para manipulação e visualização de dados em pequena escala.
+
+
+### Python, SQL e Banco de Dados  
+Serve para:
+
+- **Coleta e limpeza de dados:** Processos essenciais para garantir que os dados sejam utilizáveis.
+
+Comentário:
+
+- Python é a principal linguagem para análise de dados devido à sua versatilidade e às bibliotecas específicas como Pandas e NumPy.
+- SQL é fundamental para manipulação e consulta de dados em bancos de dados relacionais.
+- Conhecimento em bancos de dados é necessário para acessar e gerenciar dados.  
+### Estatística
+Serve para:
+
+- **Análise exploratória de dados:** Identificar padrões, tendências e outliers nos dados.
+
+Comentário:
+
+- Estatística é a base para entender os dados. Técnicas de análise exploratória ajudam a formular hipóteses e guiar o desenvolvimento de modelos.  
+### Machine Learning  
+Serve para:
+
+- **Preparação dos dados:** Pré-processamento para adequar os dados aos modelos.
+- **Treinamento dos algoritmos de Machine Learning:** Ensinar os algoritmos a reconhecer padrões nos dados.
+- **Performance dos algoritmos:** Avaliar a eficácia dos modelos.
+
+Comentário:
+
+- Machine Learning é vital para construir modelos preditivos. A compreensão dos algoritmos e de suas aplicações é fundamental.  
+### Banco de dados e Desenvolvimento de Software  
+Serve para:
+
+- **Publicação do modelo de produção:** Implantar os modelos em sistemas reais.
+
+Comentário:
+
+- É importante saber como integrar os modelos em sistemas de produção e como eles se comportam em ambientes reais.  
+### Storytelling  
+Serve para:
+
+- **Storytelling dos processos e resultados:** Comunicar os achados de maneira compreensível e envolvente.
+
+Comentário:
+
+- Storytelling é a chave para traduzir análises complexas em narrativas que influenciam decisões.
+
+## 🛤️ Trilhas de estudo
+### Negócio
+- **Foco:** Entender como o contexto e as necessidades de negócios influenciam a análise de dados.
+
+### Excel
+- **Foco:** Manipulação, visualização e análise de dados em pequena escala.
+
+### Python
+- **Foco:** Domínio de ferramentas e bibliotecas para manipulação e análise de dados.
+
+Estatística
+- **Foco:** Conhecimento em estatística para análise exploratória e modelagem.
+
+### Machine Learning
+- **Foco:** Desenvolvimento, treino, e avaliação de modelos preditivos.
+
+### Storytelling
+- **Foco:** Técnicas para comunicar insights de dados de maneira clara e impactante.
+
+### Visualização de dados
+- **Foco:** Criar gráficos e visualizações para destacar padrões e insights.
+
+### Banco de dados e SQL
+- **Foco:** Consultar e manipular dados em bancos de dados.
+
+### Desenvolvimento de Software
+- **Foco:** Integrar e implantar modelos em aplicações de produção.
 
 # 📚 Fontes
 
