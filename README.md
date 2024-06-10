@@ -102,30 +102,76 @@ Comentário:
 ## 🛤️ Trilhas de estudo
 ### Negócio
 - **Foco:** Entender como o contexto e as necessidades de negócios influenciam a análise de dados.
+- **Conteúdo:**
+  - Modelos de negócio;
+  - Métricas;
+  - Curva de maturidade de produto;
+  - Churn;
+  - Aquisição de clientes.
 
 ### Excel
 - **Foco:** Manipulação, visualização e análise de dados em pequena escala.
+- **Conteúdo:**
+
 
 ### Python
 - **Foco:** Domínio de ferramentas e bibliotecas para manipulação e análise de dados.
+- **Conteúdo:**
+  - Variáveis;
+  - Estrutura de dados;
+  - Estrutura de controle;
+  - Condicionais;
+  - Desenho de mapas.
 
 Estatística
 - **Foco:** Conhecimento em estatística para análise exploratória e modelagem.
+- **Conteúdo:**
+  - Estatística de ordem 1;
+  - Distribuição de probabilidade;
+  - Planejamento de teste A/B;
+  - Probabilidade;
+  - Inferência Bayesiana.
 
 ### Machine Learning
 - **Foco:** Desenvolvimento, treino, e avaliação de modelos preditivos.
+- **Conteúdo:**
+  - Ávores de decisão;
+  - Regressões lineares;
+  - Regressões não lineares;
+  - Redes neurais;
+  - Agrupamentos.
 
 ### Storytelling
 - **Foco:** Técnicas para comunicar insights de dados de maneira clara e impactante.
+- **Conteúdo:**
+  - Estrutura de narrativa;
+  - Analogia e comparação;
+  - Método de aterrisagem;
+  - Organização visual.
 
 ### Visualização de dados
 - **Foco:** Criar gráficos e visualizações para destacar padrões e insights.
+- **Conteúdo:**
+  - Gráficos em python;
+  - Power BI;
+  - Tableau;
+  - Data studio;
+  - Looker.
 
 ### Banco de dados e SQL
 - **Foco:** Consultar e manipular dados em bancos de dados.
+- **Conteúdo:**
+  - SQL;
+  - Sqlite3;
+  - MySQL;
+  - Postgres;
+  - MongoDB.
 
 ### Desenvolvimento de Software
 - **Foco:** Integrar e implantar modelos em aplicações de produção.
+- **Conteúdo:**
+  - Git;
+  - GitHub.
 
 # 📚 Fontes
 
