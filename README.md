@@ -107,12 +107,20 @@ Comentário:
   - Métricas;
   - Curva de maturidade de produto;
   - Churn;
-  - Aquisição de clientes.
+  - Aquisição de clientes;
+  - Análise de stakeholders: Entender quem são os interessados e suas necessidades;
+  - Análise de concorrência: Avaliação de dados em relação ao mercado e concorrentes;
+  - Frameworks de decisão: Ferramentas para tomada de decisões baseadas em dados.
 
 ### Excel
 - **Foco:** Manipulação, visualização e análise de dados em pequena escala.
 - **Conteúdo:**
-
+  - Formatação e gráficos básicos;
+  - Tabelas Dinâmicas;
+  - Formulas e funções avançadas (VLOOKUP, HLOOKUP, INDEX/MATCH);
+  - Macros e automação;
+  - Análise de Cenários;
+  - Solver e Análise de Dados.
 
 ### Python
 - **Foco:** Domínio de ferramentas e bibliotecas para manipulação e análise de dados.
@@ -121,7 +129,12 @@ Comentário:
   - Estrutura de dados;
   - Estrutura de controle;
   - Condicionais;
-  - Desenho de mapas.
+  - Desenho de mapas;
+  - Bibliotecas para análise de dados: Pandas, NumPy;
+  - Visualização de dados: Matplotlib, Seaborn;
+  - Manipulação de arquivos: CSV, Excel, JSON;
+  - Web scraping: BeautifulSoup, Scrapy;
+  - Ambientes de desenvolvimento: Jupyter Notebooks, IDEs como PyCharm ou VS Code.
 
 Estatística
 - **Foco:** Conhecimento em estatística para análise exploratória e modelagem.
@@ -130,7 +143,12 @@ Estatística
   - Distribuição de probabilidade;
   - Planejamento de teste A/B;
   - Probabilidade;
-  - Inferência Bayesiana.
+  - Inferência Bayesiana;
+  - Análise de variância (ANOVA);
+  - Correlação e regressão simples;
+  - Estatística multivariada;
+  - Testes de hipóteses (t-test, chi-square test);
+  - Medidas de centralidade e dispersão.
 
 ### Machine Learning
 - **Foco:** Desenvolvimento, treino, e avaliação de modelos preditivos.
@@ -147,7 +165,13 @@ Estatística
   - Estrutura de narrativa;
   - Analogia e comparação;
   - Método de aterrisagem;
-  - Organização visual.
+  - Organização visual;
+  - Pré-processamento de dados: Normalização, one-hot encoding;
+  - Modelos supervisionados e não supervisionados;
+  - Tuning de hiperparâmetros;
+  - Validação cruzada;
+  - Redes neurais profundas (Deep Learning);
+  - Frameworks: Scikit-learn, TensorFlow, PyTorch.
 
 ### Visualização de dados
 - **Foco:** Criar gráficos e visualizações para destacar padrões e insights.
@@ -156,7 +180,10 @@ Estatística
   - Power BI;
   - Tableau;
   - Data studio;
-  - Looker.
+  - Looker;
+  - Uso de visualizações dinâmicas;
+  - Design de apresentações eficazes;
+  - Técnicas de comunicação para diferentes audiências.
 
 ### Banco de dados e SQL
 - **Foco:** Consultar e manipular dados em bancos de dados.
