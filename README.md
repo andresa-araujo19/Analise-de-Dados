@@ -76,14 +76,6 @@ Comentário:
 
 - Estatística é a base para entender os dados. Técnicas de análise exploratória ajudam a formular hipóteses e guiar o desenvolvimento de modelos.  
  
-### Banco de dados e Desenvolvimento de Software  
-Serve para:
-
-- **Publicação do modelo de produção:** Implantar os modelos em sistemas reais.
-
-Comentário:
-
-- É importante saber como integrar os modelos em sistemas de produção e como eles se comportam em ambientes reais.  
 ### Storytelling  
 Serve para:
 
