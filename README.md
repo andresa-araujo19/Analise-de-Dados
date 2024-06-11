@@ -25,8 +25,14 @@ Embora a análise de dados seja aplicada em diversas áreas, seu destaque é esp
 - [Cálculo integral - Khan Academy](https://pt.khanacademy.org/math/integral-calculus)
 - [Cálculo multivariável - Khan Academy](https://pt.khanacademy.org/math/multivariable-calculus)
 - [Álgebra linear - Khan Academy](https://pt.khanacademy.org/math/linear-algebra)
+- [Certificado Profissional Google Data Analytics (PT)](https://www.coursera.org/professional-certificates/analise-de-dados-do-google)
 
 ## Cursos pagos 💸 (Investimento)
+- [Curso Analista de Dados com horário flexível, plataforma própria e garantia de emprego](https://tripleten.com.br/analista-de-dados/)
+- [Análise de Dados](https://cubos.academy/cursos/analise-de-dados)
+- [Curso Analista de Dados Online – Formação prática](https://harve.com.br/curso-analista-de-dados-online/)
+- [Formação Analista de Dados](https://xperiun.com/ed/formacao/)
+- [Power BI Completo - Do Básico ao Avançado](https://www.udemy.com/course/power-bi-completo-do-basico-ao-avancado/?ranMID=39197&ranEAID=OjkYjeK5T1I&ranSiteID=OjkYjeK5T1I-BWcemht7Uq2MPirnund_TQ&LSNPUBID=OjkYjeK5T1I&utm_source=aff-campaign&utm_medium=udemyads&couponCode=ST21MT61124)
 
 
 # 📖 O que estudar
