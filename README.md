@@ -106,14 +106,20 @@ Comentário:
 ### Negócio
 - **Foco:** Entender como o contexto e as necessidades de negócios influenciam a análise de dados.
 - **Conteúdo:**
-  - Modelos de negócio;
-  - Métricas;
-  - Curva de maturidade de produto;
-  - Churn;
-  - Aquisição de clientes;
-  - Análise de stakeholders: Entender quem são os interessados e suas necessidades;
-  - Análise de concorrência: Avaliação de dados em relação ao mercado e concorrentes;
-  - Frameworks de decisão: Ferramentas para tomada de decisões baseadas em dados.
+<details>
+  <summary>Modelos de negócio</summary>
+  
+  - **Aulas**: [Playlist Youtube](https://youtube.com/playlist?list=PLx-3T2iFklZmtCM33VgHNn42yEP6AQTTq&si=_oCxXI8qi0BmRlPT)  
+  - **Sites:** [Modelo de negócio: o que é e 12 modelos para você se inspirar](https://49educacao.com.br/modelos-de-negocios/modelo-de-negocio/)  - [12 tipos de modelos de negócios no mercado](https://www.institutomudita.com/blogmudi/12-tipos-de-modelos-de-negocios-no-mercado/)
+  
+</details>
+  - Métricas;  
+  - Curva de maturidade de produto;  
+  - Churn;  
+  - Aquisição de clientes;  
+  - Análise de stakeholders: Entender quem são os interessados e suas necessidades;  
+  - Análise de concorrência: Avaliação de dados em relação ao mercado e concorrentes;  
+  - Frameworks de decisão: Ferramentas para tomada de decisões baseadas em dados.  
 
 ### Excel
 - **Foco:** Manipulação, visualização e análise de dados em pequena escala.
