@@ -151,8 +151,46 @@ Comentário:
   
 </details>
 
+
+<details>
+  <summary>Métricas: Compreensão de KPIs e métricas de desempenho</summary>
+
+  |Conteúdo|Aulas|
+  |--------|-----|
+  |**Fundamentos de KPIs e Métricas de Desempenho**|
+  |O Que São KPIs?|
+  |Diferença Entre Métricas e KPIs|
+  |Importância dos KPIs|
+  |**Tipos de KPIs**|
+  |KPIs Operacionais|
+  |KPIs Financeiros|
+  |KPIs de Clientes|
+  |KPIs de Crescimento|
+  |KPIs de Qualidade|
+  |**Desenvolvimento e Implementação de KPIs**|
+  |Identificação de Objetivos Estratégicos|
+  |Escolha dos KPIs Apropriados|
+  |Coleta e Análise de Dados|
+  |Estabelecimento de Metas|
+  |Implementação|
+  |**Monitoramento e Avaliação de KPIs**|
+  |Monitoramento Contínuo|
+  |Análise e Interpretação|
+  |Comunicação dos Resultados|
+  |**Ajustes e Melhoria Contínua**|
+  |Revisão e Atualização de KPIs|
+  |Melhoria Contínua|
+  |**Ferramentas e Técnicas para Gestão de KPIs**|
+  |Ferramentas de BI (Business Intelligence)|
+  |Dashboards e Relatórios|
+  |Softwares de Análise de Dados|
+
+  - **Aulas geral:**
+  - **Sites:**
+  
+</details>
+
 - Falta:
-  - Métricas: Compreensão de KPIs e métricas de desempenho.
   - Curva de maturidade de produto: Ciclo de vida do produto e estratégias de maturidade.
   - Aquisição de clientes: Estratégias e métricas para atrair novos clientes.
   - Churn: Análise e estratégias para reduzir a perda de clientes.
