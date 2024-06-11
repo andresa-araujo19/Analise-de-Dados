@@ -167,7 +167,13 @@ Estatística
   - Regressões lineares;
   - Regressões não lineares;
   - Redes neurais;
-  - Agrupamentos.
+  - Agrupamentos;
+  - Pré-processamento de dados: Normalização, one-hot encoding;
+  - Modelos supervisionados e não supervisionados;
+  - Tuning de hiperparâmetros;
+  - Validação cruzada;
+  - Redes neurais profundas (Deep Learning);
+  - Frameworks: Scikit-learn, TensorFlow, PyTorch.
 
 ### Storytelling
 - **Foco:** Técnicas para comunicar insights de dados de maneira clara e impactante.
@@ -176,12 +182,9 @@ Estatística
   - Analogia e comparação;
   - Método de aterrisagem;
   - Organização visual;
-  - Pré-processamento de dados: Normalização, one-hot encoding;
-  - Modelos supervisionados e não supervisionados;
-  - Tuning de hiperparâmetros;
-  - Validação cruzada;
-  - Redes neurais profundas (Deep Learning);
-  - Frameworks: Scikit-learn, TensorFlow, PyTorch.
+  - Uso de visualizações dinâmicas;
+  - Design de apresentações eficazes;
+  - Técnicas de comunicação para diferentes audiências.
 
 ### Visualização de dados
 - **Foco:** Criar gráficos e visualizações para destacar padrões e insights.
@@ -191,9 +194,10 @@ Estatística
   - Tableau;
   - Data studio;
   - Looker;
-  - Uso de visualizações dinâmicas;
-  - Design de apresentações eficazes;
-  - Técnicas de comunicação para diferentes audiências.
+  - Plotly e Dash para visualizações interativas em Python;
+  - Principais tipos de gráficos e quando usá-los;
+  - Principles of good design in data visualization;
+  - Mapas e geovisualização.
 
 ### Banco de dados e SQL
 - **Foco:** Consultar e manipular dados em bancos de dados.
@@ -202,13 +206,24 @@ Estatística
   - Sqlite3;
   - MySQL;
   - Postgres;
-  - MongoDB.
+  - MongoDB;
+  - NoSQL Databases além de MongoDB (Cassandra, Redis);
+  - Tuning de desempenho de consultas;
+  - Modelagem de dados e normalização;
+  - Procedures e triggers em SQL;
+  - Ferramentas de visualização de banco de dados.
 
 ### Desenvolvimento de Software
 - **Foco:** Integrar e implantar modelos em aplicações de produção.
 - **Conteúdo:**
   - Git;
-  - GitHub.
+  - GitHub;
+  - Versionamento de código;
+  - Integração contínua/implantação contínua (CI/CD);
+  - Docker para containerização;
+  - APIs e desenvolvimento de microserviços;
+  - Automação e pipelines de dados;
+  - Monitoramento e manutenção de modelos em produção.
 
 # 📚 Fontes
 
