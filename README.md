@@ -75,16 +75,7 @@ Serve para:
 Comentário:
 
 - Estatística é a base para entender os dados. Técnicas de análise exploratória ajudam a formular hipóteses e guiar o desenvolvimento de modelos.  
-### Machine Learning  
-Serve para:
-
-- **Preparação dos dados:** Pré-processamento para adequar os dados aos modelos.
-- **Treinamento dos algoritmos de Machine Learning:** Ensinar os algoritmos a reconhecer padrões nos dados.
-- **Performance dos algoritmos:** Avaliar a eficácia dos modelos.
-
-Comentário:
-
-- Machine Learning é vital para construir modelos preditivos. A compreensão dos algoritmos e de suas aplicações é fundamental.  
+ 
 ### Banco de dados e Desenvolvimento de Software  
 Serve para:
 
@@ -237,20 +228,6 @@ Estatística
   - Inferência Bayesiana: Aplicação de probabilidade em inferência estatística.
   - Estatística multivariada: Análise de múltiplas variáveis simultaneamente.
 
-### Machine Learning
-- **Foco:** Desenvolvimento, treino, e avaliação de modelos preditivos.
-- **Conteúdo:**/Falta:
-  - Pré-processamento de dados: Limpeza, normalização e feature engineering.
-  - Modelos supervisionados e não supervisionados: Conceitos básicos e diferenças.
-  - Regressões lineares: Modelagem de relações lineares.
-  - Árvores de decisão: Modelagem com base em divisões binárias.
-  - Agrupamentos: Métodos de clusterização (K-Means, Hierarchical).
-  - Regressões não lineares: Modelagem de relações complexas.
-  - Tuning de hiperparâmetros: Otimização de parâmetros de modelos.
-  - Validação cruzada: Técnicas para avaliação robusta de modelos.
-  - Redes neurais: Introdução e modelagem com redes neurais básicas.
-  - Redes neurais profundas (Deep Learning): Aplicações avançadas com TensorFlow e PyTorch.
-
 ### Storytelling
 - **Foco:** Técnicas para comunicar insights de dados de maneira clara e impactante.
 - **Conteúdo:**/Falta
@@ -288,19 +265,6 @@ Estatística
   - Postgres: Funcionalidades avançadas e desempenho.
   - MongoDB: Introdução a bancos de dados NoSQL.
   - Ferramentas de visualização de banco de dados: Uso de ferramentas como DBeaver.
-
-### Desenvolvimento de Software
-- **Foco:** Integrar e implantar modelos em aplicações de produção.
-- **Conteúdo:**/Falta
-  - Git: Controle de versão básico.
-  - GitHub: Colaboração e repositórios.
-  - Versionamento de código: Práticas de versionamento e gerenciamento de branches.
-  - Integração contínua/implantação contínua (CI/CD): Automação de testes e deploy.
-  - Docker para containerização: Isolamento de ambientes de desenvolvimento.
-  - APIs e desenvolvimento de microserviços: Construção e integração de serviços.
-  - Automação e pipelines de dados: Ferramentas e técnicas para automação.
-  - Monitoramento e manutenção de modelos em produção: Estratégias de monitoramento.
-  - Práticas de segurança em desenvolvimento de software: Segurança de código e dados.
 
 # 📚 Fontes
 
