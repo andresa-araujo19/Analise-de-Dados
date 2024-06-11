@@ -108,9 +108,46 @@ Comentário:
 - **Conteúdo:**
 <details>
   <summary>Modelos de negócio: Fundamentos dos modelos de negócios e como eles funcionam.</summary>
+
+  |Conteúdo|Aulas|
+  |--------|-----|
+  |**Definição de Modelos de Negócio:** Conceito e propósito|
+  |**História e Evolução dos Modelos de Negócio:** De Henry Ford ao e-commerce|
+  |**Proposta de Valor:** O que a empresa oferece e por que é valioso para o cliente|
+  |**Segmentos de Clientes:** Quem são os clientes-alvo|
+  |**Canais:** Como o produto ou serviço chega ao cliente|
+  |**Relacionamento com Clientes:** Como a empresa interage com seus clientes|
+  |**Estrutura de Receita:** Como a empresa ganha dinheiro|
+  |**Recursos Principais:** Recursos necessários para criar valor|
+  |**Atividades Principais:** Principais ações para entregar a proposta de valor|
+  |**Parcerias:** Redes de fornecedores e parceiros|
+  |**Estrutura de Custo:** Principais custos associados ao negócio|
+  |**Modelos de Negócio de Produto:** Vendas de produtos físicos|
+  |**Modelos de Negócio de Serviço:** Vendas de serviços|
+  |**Modelos de Assinatura:** Receita recorrente através de assinaturas|
+  |**Modelos Freemium:** Ofertas gratuitas com opções pagas|
+  |**Modelos de Plataforma:** Conectando dois lados do mercado|
+  |**Modelos de Licenciamento:** Receita através de licenciamento de propriedade intelectual|
+  |**Desenvolvimento de Modelos de Negócio:** Processo de criação e inovação|
+  |**Validação de Modelos de Negócio:** Testar e validar suposições|
+  |**Avaliação de Performance:** Medição de sucesso e eficácia|
+  |**Pivot e Ajustes:** Como e quando ajustar seu modelo de negócio|
+  |**Business Model Canvas:** Estrutura visual para mapear modelos de negócio|
+  |**Lean Canvas:** Versão enxuta do Business Model Canvas|
+  |**SWOT Analysis:** Análise de forças, fraquezas, oportunidades e ameaças|
+  |**Porter's Five Forces:** Avaliação do ambiente competitivo|
+  |**Estudos de Caso de Empresas Bem-Sucedidas:** Exemplos de inovação e sucesso|
+  |**Análise de Falhas:** O que deu errado em modelos de negócios fracassados|
+  |**Modelos de Negócio Digitais:** Como a digitalização está transformando modelos de negócios|
+  |**Modelos de Economia Circular:** Sustentabilidade e eficiência|
+  |**Modelos Baseados em Dados:** Monetização de dados e analytics|
   
-  - **Aulas**: [Playlist Youtube](https://youtube.com/playlist?list=PLx-3T2iFklZmtCM33VgHNn42yEP6AQTTq&si=_oCxXI8qi0BmRlPT)  
-  - **Sites:** [Modelo de negócio: o que é e 12 modelos para você se inspirar](https://49educacao.com.br/modelos-de-negocios/modelo-de-negocio/)  - [12 tipos de modelos de negócios no mercado](https://www.institutomudita.com/blogmudi/12-tipos-de-modelos-de-negocios-no-mercado/)
+  - **Aulas geral**: [Playlist Youtube](https://youtube.com/playlist?list=PLx-3T2iFklZmtCM33VgHNn42yEP6AQTTq&si=_oCxXI8qi0BmRlPT)  
+  - **Sites:**
+    - [Modelo de negócio: o que é e 12 modelos para você se inspirar](https://49educacao.com.br/modelos-de-negocios/modelo-de-negocio/)
+    - [12 tipos de modelos de negócios no mercado](https://www.institutomudita.com/blogmudi/12-tipos-de-modelos-de-negocios-no-mercado/)
+    - [What Is a Business Model?](https://hbr.org/2015/01/what-is-a-business-model)
+    - [A Brief history of the business model concept](https://vbn.aau.dk/ws/portalfiles/portal/209076882/NOTAT_A_Brief_History_of_the_Business_Model_Concept.pdf)
   
 </details>
 
