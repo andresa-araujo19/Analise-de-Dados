@@ -8,7 +8,7 @@
 Embora a análise de dados seja aplicada em diversas áreas, seu destaque é especialmente notável no mundo corporativo. Sua importância reside na capacidade de transformar dados em insights (💡) valiosos, essenciais para a tomada de decisões.
 
 # 📝 Cursos  
-## Abaixo deixo alguns curos gratuitos ❤️.
+## Abaixo deixo alguns curos gratuitos ❤️
 
 ### Cursos disponibilizados no [edital](https://www.tcees.tc.br/wp-content/uploads/formidable/237/TRILHA-APRENDIZAGEM-ANALISE-DE-DADOS.docx.pdf "Edital") do Tribunal de Contas do Estado do Espirito Santo (TCEES):  
 - [Conceitos básicos de estatística](https://www.tcees.tc.br/escola/catalogo-de-cursos/curso/?id=672 "Carga horária: 40:00h")
@@ -25,7 +25,10 @@ Embora a análise de dados seja aplicada em diversas áreas, seu destaque é esp
 - [Cálculo integral - Khan Academy](https://pt.khanacademy.org/math/integral-calculus)
 - [Cálculo multivariável - Khan Academy](https://pt.khanacademy.org/math/multivariable-calculus)
 - [Álgebra linear - Khan Academy](https://pt.khanacademy.org/math/linear-algebra)
----
+
+## Cursos pagos 💸 (Investimento)
+
+
 # 📖 O que estudar
 A lista de habilidades é extensa, mas a recomendação de não se cobrar para dominar tudo de uma vez é sábia. O aprendizado é contínuo, e a prática diária aprimora as habilidades.
 
