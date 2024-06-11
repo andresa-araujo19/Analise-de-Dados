@@ -107,123 +107,125 @@ Comentário:
 - **Foco:** Entender como o contexto e as necessidades de negócios influenciam a análise de dados.
 - **Conteúdo:**
 <details>
-  <summary>Modelos de negócio</summary>
+  <summary>Modelos de negócio: Fundamentos dos modelos de negócios e como eles funcionam.</summary>
   
   - **Aulas**: [Playlist Youtube](https://youtube.com/playlist?list=PLx-3T2iFklZmtCM33VgHNn42yEP6AQTTq&si=_oCxXI8qi0BmRlPT)  
   - **Sites:** [Modelo de negócio: o que é e 12 modelos para você se inspirar](https://49educacao.com.br/modelos-de-negocios/modelo-de-negocio/)  - [12 tipos de modelos de negócios no mercado](https://www.institutomudita.com/blogmudi/12-tipos-de-modelos-de-negocios-no-mercado/)
   
 </details>
 
-- Métricas;
-- Curva de maturidade de produto;
-- Churn;
-- Aquisição de clientes;
-- Análise de stakeholders: Entender quem são os interessados e suas necessidades;
-- Análise de concorrência: Avaliação de dados em relação ao mercado e concorrentes;
-- Frameworks de decisão: Ferramentas para tomada de decisões baseadas em dados.  
+- Falta:
+  - Métricas: Compreensão de KPIs e métricas de desempenho.
+  - Curva de maturidade de produto: Ciclo de vida do produto e estratégias de maturidade.
+  - Aquisição de clientes: Estratégias e métricas para atrair novos clientes.
+  - Churn: Análise e estratégias para reduzir a perda de clientes.
+  - Análise de stakeholders: Identificação e análise das partes interessadas.
+  - Análise de concorrência: Avaliação dos concorrentes e do mercado.
+  - Frameworks de decisão: Ferramentas e métodos para tomada de decisões baseadas em dados.
 
 ### Excel
 - **Foco:** Manipulação, visualização e análise de dados em pequena escala.
-- **Conteúdo:**
-  - Formatação e gráficos básicos;
-  - Tabelas Dinâmicas;
-  - Formulas e funções avançadas (VLOOKUP, HLOOKUP, INDEX/MATCH);
-  - Macros e automação;
-  - Análise de Cenários;
-  - Solver e Análise de Dados.
+- **Conteúdo:**/Falta:
+  - Formatação e gráficos básicos: Criação e formatação de gráficos simples.
+  - Fórmulas e funções básicas: Uso de SUM, AVERAGE, etc.
+  - Tabelas Dinâmicas: Análise de dados usando tabelas dinâmicas.
+  - Formulas e funções avançadas: Uso de VLOOKUP, HLOOKUP, INDEX/MATCH.
+  - Gráficos avançados: Criação de gráficos complexos e personalizados.
+  - Análise de Cenários: Uso do Solver e cenários para análises hipotéticas.
+  - Macros e automação: Criação de macros para automatizar tarefas repetitivas.
+  - Modelagem básica: Construção de modelos simples de previsão e simulação.
 
 ### Python
 - **Foco:** Domínio de ferramentas e bibliotecas para manipulação e análise de dados.
-- **Conteúdo:**
-  - Variáveis;
-  - Estrutura de dados;
-  - Estrutura de controle;
-  - Condicionais;
-  - Desenho de mapas;
-  - Bibliotecas para análise de dados: Pandas, NumPy;
-  - Visualização de dados: Matplotlib, Seaborn;
-  - Manipulação de arquivos: CSV, Excel, JSON;
-  - Web scraping: BeautifulSoup, Scrapy;
-  - Ambientes de desenvolvimento: Jupyter Notebooks, IDEs como PyCharm ou VS Code.
+- **Conteúdo:**/Falta:
+  - Variáveis: Tipos de dados e operações básicas.
+  - Estruturas de dados: Listas, dicionários, conjuntos.
+  - Estruturas de controle: Loops e condicionais.
+  - Manipulação de arquivos: Ler e escrever arquivos CSV, Excel, JSON.
+  - Bibliotecas para análise de dados: Uso de Pandas e NumPy.
+  - Visualização de dados: Matplotlib e Seaborn para gráficos básicos.
+  - Desenho de mapas: Visualização geoespacial básica.
+  - Web scraping: Extração de dados de websites usando BeautifulSoup e Scrapy.
+  - Ambientes de desenvolvimento: Uso de Jupyter Notebooks, PyCharm, VS Code.
 
 Estatística
 - **Foco:** Conhecimento em estatística para análise exploratória e modelagem.
-- **Conteúdo:**
-  - Estatística de ordem 1;
-  - Distribuição de probabilidade;
-  - Planejamento de teste A/B;
-  - Probabilidade;
-  - Inferência Bayesiana;
-  - Análise de variância (ANOVA);
-  - Correlação e regressão simples;
-  - Estatística multivariada;
-  - Testes de hipóteses (t-test, chi-square test);
-  - Medidas de centralidade e dispersão.
+- **Conteúdo:**/Falta:
+  - Medidas de centralidade e dispersão: Média, mediana, variância, desvio padrão.
+  - Estatística de ordem 1: Análise básica de dados (distribuições, percentis).
+  - Distribuições de probabilidade: Tipos de distribuições e suas aplicações.
+  - Probabilidade: Conceitos básicos e teoremas principais.
+  - Testes de hipóteses (t-test, chi-square test): Métodos para inferência estatística.
+  - Análise de variância (ANOVA): Comparação de grupos.
+  - Correlação e regressão simples: Análise de relações entre variáveis.
+  - Planejamento de teste A/B: Estrutura e análise de experimentos.
+  - Inferência Bayesiana: Aplicação de probabilidade em inferência estatística.
+  - Estatística multivariada: Análise de múltiplas variáveis simultaneamente.
 
 ### Machine Learning
 - **Foco:** Desenvolvimento, treino, e avaliação de modelos preditivos.
-- **Conteúdo:**
-  - Ávores de decisão;
-  - Regressões lineares;
-  - Regressões não lineares;
-  - Redes neurais;
-  - Agrupamentos;
-  - Pré-processamento de dados: Normalização, one-hot encoding;
-  - Modelos supervisionados e não supervisionados;
-  - Tuning de hiperparâmetros;
-  - Validação cruzada;
-  - Redes neurais profundas (Deep Learning);
-  - Frameworks: Scikit-learn, TensorFlow, PyTorch.
+- **Conteúdo:**/Falta:
+  - Pré-processamento de dados: Limpeza, normalização e feature engineering.
+  - Modelos supervisionados e não supervisionados: Conceitos básicos e diferenças.
+  - Regressões lineares: Modelagem de relações lineares.
+  - Árvores de decisão: Modelagem com base em divisões binárias.
+  - Agrupamentos: Métodos de clusterização (K-Means, Hierarchical).
+  - Regressões não lineares: Modelagem de relações complexas.
+  - Tuning de hiperparâmetros: Otimização de parâmetros de modelos.
+  - Validação cruzada: Técnicas para avaliação robusta de modelos.
+  - Redes neurais: Introdução e modelagem com redes neurais básicas.
+  - Redes neurais profundas (Deep Learning): Aplicações avançadas com TensorFlow e PyTorch.
 
 ### Storytelling
 - **Foco:** Técnicas para comunicar insights de dados de maneira clara e impactante.
-- **Conteúdo:**
-  - Estrutura de narrativa;
-  - Analogia e comparação;
-  - Método de aterrisagem;
-  - Organização visual;
-  - Uso de visualizações dinâmicas;
-  - Design de apresentações eficazes;
-  - Técnicas de comunicação para diferentes audiências.
+- **Conteúdo:**/Falta
+  - Estrutura de narrativa: Construção de histórias com dados.
+  - Organização visual: Técnicas de layout para apresentar dados de forma clara.
+  - Analogia e comparação: Uso de comparações para ilustrar pontos.
+  - Técnicas de comunicação para diferentes audiências: Adaptar a apresentação para públicos variados.
+  - Uso de visualizações dinâmicas: Implementação de gráficos interativos.
+  - Design de apresentações eficazes: Criação de slides e relatórios impactantes.
+  - Método de aterrisagem: Técnicas para envolver e manter a atenção do público.
 
 ### Visualização de dados
 - **Foco:** Criar gráficos e visualizações para destacar padrões e insights.
-- **Conteúdo:**
-  - Gráficos em python;
-  - Power BI;
-  - Tableau;
-  - Data studio;
-  - Looker;
-  - Plotly e Dash para visualizações interativas em Python;
-  - Principais tipos de gráficos e quando usá-los;
-  - Principles of good design in data visualization;
-  - Mapas e geovisualização.
+- **Conteúdo:**/Falta
+  - Principais tipos de gráficos: Barras, linhas, dispersão, etc.
+  - Gráficos em Python: Criação de gráficos com Matplotlib e Seaborn.
+  - Principles of good design in data visualization: Boas práticas de design.
+  - Plotly e Dash para visualizações interativas: Visualizações dinâmicas em Python.
+  - Power BI: Introdução e uso avançado.
+  - Tableau: Ferramentas de criação de dashboards e gráficos avançados.
+  - Data Studio: Criação de relatórios interativos.
+  - Looker: Visualização e exploração de dados complexos.
+  - Mapas e geovisualização: Visualização de dados geográficos.
 
 ### Banco de dados e SQL
 - **Foco:** Consultar e manipular dados em bancos de dados.
-- **Conteúdo:**
-  - SQL;
-  - Sqlite3;
-  - MySQL;
-  - Postgres;
-  - MongoDB;
-  - NoSQL Databases além de MongoDB (Cassandra, Redis);
-  - Tuning de desempenho de consultas;
-  - Modelagem de dados e normalização;
-  - Procedures e triggers em SQL;
-  - Ferramentas de visualização de banco de dados.
+- **Conteúdo:**/Falta
+  - SQL: Fundamentos e operações básicas.
+  - SQL avançado: JOINs, subconsultas, agregações.
+  - Modelagem de dados e normalização: Estruturação eficiente de bancos de dados.
+  - Procedures e triggers: Automação dentro do banco de dados.
+  - Tuning de desempenho de consultas: Otimização de consultas SQL.
+  - SQLite: Manipulação de bancos de dados locais leves.
+  - MySQL: Bancos de dados relacionais em maior escala.
+  - Postgres: Funcionalidades avançadas e desempenho.
+  - MongoDB: Introdução a bancos de dados NoSQL.
+  - Ferramentas de visualização de banco de dados: Uso de ferramentas como DBeaver.
 
 ### Desenvolvimento de Software
 - **Foco:** Integrar e implantar modelos em aplicações de produção.
-- **Conteúdo:**
-  - Git;
-  - GitHub;
-  - Versionamento de código;
-  - Integração contínua/implantação contínua (CI/CD);
-  - Docker para containerização;
-  - APIs e desenvolvimento de microserviços;
-  - Automação e pipelines de dados;
-  - Monitoramento e manutenção de modelos em produção.
+- **Conteúdo:**/Falta
+  - Git: Controle de versão básico.
+  - GitHub: Colaboração e repositórios.
+  - Versionamento de código: Práticas de versionamento e gerenciamento de branches.
+  - Integração contínua/implantação contínua (CI/CD): Automação de testes e deploy.
+  - Docker para containerização: Isolamento de ambientes de desenvolvimento.
+  - APIs e desenvolvimento de microserviços: Construção e integração de serviços.
+  - Automação e pipelines de dados: Ferramentas e técnicas para automação.
+  - Monitoramento e manutenção de modelos em produção: Estratégias de monitoramento.
+  - Práticas de segurança em desenvolvimento de software: Segurança de código e dados.
 
 # 📚 Fontes
 
